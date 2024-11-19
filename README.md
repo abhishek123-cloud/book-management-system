@@ -15,6 +15,7 @@ ws://localhost:4000- for socket connection
 
 ### Api Endpoints
 1.http://localhost:4000/api/books - create(POST)
+
 2.http://localhost:4000/api/books - getAll(GET)  -  **With pagination and filter**
 3.http://localhost:4000/api/books/87fecfea-0e8f-4820-b1dc-34ebacf1426b - getByID(GET)
 4.http://localhost:4000/api/books/ab9f7753-4b0f-4b0b-a481-09a5ec43b4a7 - delete(DELETE)
