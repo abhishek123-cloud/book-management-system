@@ -10,8 +10,8 @@
 - **fetchAndAggregateData** written in utils folder 
 
 ## 🛠 Setup and Run
-http://localhost:4000- for Application
-ws://localhost:4000- for socket connection
+1.http://localhost:4000- for Application
+2.ws://localhost:4000- for socket connection
 
 ### Api Endpoints
 1.http://localhost:4000/api/books - create(POST)
